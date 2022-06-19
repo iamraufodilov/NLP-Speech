@@ -1,0 +1,23 @@
+#$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+#$$$$$$$$$$$$$$$$$$$$$ TOP NLP TASKS $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+#$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+1) Sentiment Analysis
+
+2) Text Classification
+
+3) Text Summarization
+
+4) Text Extraction
+
+5) Machine Translation
+
+6) Chatbots 
+
+7) Virtual Assistance
+
+8) Question Answering
+
+9) Auto Correct
+
+10) Spell Checking
