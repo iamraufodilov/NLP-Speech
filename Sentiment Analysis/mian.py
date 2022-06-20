@@ -154,3 +154,6 @@ def model_evaluate(model, X_test, y_pred):
 lrmodel = LogisticRegression(C = 2, max_iter = 1000, n_jobs=-1)
 lrmodel.fit(X_train, X_test)
 print(model_evaluate(lrmodel, X_test, y_test))
+
+# good good 
+# keep going
